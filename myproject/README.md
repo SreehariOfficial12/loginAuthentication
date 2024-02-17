@@ -1,5 +1,5 @@
 Hey kanika,
-I wrote this just simple user login using bulti-in django authentication system.
+I wrote this just simple user login as we discussed earlier using bulti-in django authentication system.
 
 I dont know about serializers.   Views i had to test it so many times so i added it please check if anything is wrong this is very basic login system.
 
