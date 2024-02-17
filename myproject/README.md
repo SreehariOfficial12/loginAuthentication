@@ -19,4 +19,4 @@ http://localhost:8000/user/welcome/ - it shows welcome to gym app you are succes
 
 And there are more errors like that.
 
-Let me know if anything has to changed or to improve for now.
+Let me know if anything has to be changed or to improve for now.
